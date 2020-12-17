@@ -1,5 +1,5 @@
 {% set name = "tzinfo" %}
-{% set version = "2.0.1" %}
+{% set version = "2.0.4" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-  sha256: a889af0cbd4972376f8237515070747c68f71330bbaec2d1d50fba9f3f7f6bfb
+  sha256: 9fd0906c2409f729e90c78695e1001fa28f2fa72faa5ad2f6074c3e44e2f1783
 
 build:
   noarch: generic
