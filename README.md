@@ -5,11 +5,13 @@ Home: https://rubygems.org/gems/tzinfo
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rb-tzinfo-feedstock/blob/master/LICENSE.txt)
 
 Summary: TZInfo provides access to time zone data and allows times to be converted using time zone rules.
 
+Development: https://github.com/tzinfo/tzinfo
 
+Documentation: https://www.rubydoc.info/gems/tzinfo
 
 Current build status
 ====================
